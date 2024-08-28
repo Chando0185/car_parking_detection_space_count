@@ -22,7 +22,7 @@ This project is a web application that detects and counts free and occupied park
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/parking-space-detection.git
+git clone https://github.com/Chando0185/car_parking_detection_space_count.git
 cd parking-space-detection
 ```
 
