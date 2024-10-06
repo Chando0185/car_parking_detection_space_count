@@ -1,6 +1,7 @@
 # Parking Space Detection using Flask and OpenCV
 
 This project is a web application that detects and counts free and occupied parking spaces in a video feed. It uses a pre-trained Convolutional Neural Network (CNN) model to classify whether a parking space is occupied by a car or not. The application is built using Flask, OpenCV, and TensorFlow/Keras.
+![Screenshot 2024-10-05 105904](https://github.com/user-attachments/assets/88564b71-4c4f-4030-bb1b-5a0755774efe)
 
 ## Features
 
