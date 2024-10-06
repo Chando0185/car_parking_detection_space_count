@@ -2,6 +2,10 @@
 
 This project is a web application that detects and counts free and occupied parking spaces in a video feed. It uses a pre-trained Convolutional Neural Network (CNN) model to classify whether a parking space is occupied by a car or not. The application is built using Flask, OpenCV, and TensorFlow/Keras.
 
+https://github.com/mdtahseenraza/AutoPark-Real-Time-Space-Detection/blob/main/Screenshot%202024-10-05%20105904.png
+
+
+
 ## Features
 
 - **Real-time Video Processing:** Detects cars in real-time from a video feed.
@@ -10,7 +14,6 @@ This project is a web application that detects and counts free and occupied park
 - **API for Space Count:** Provides an API endpoint to get the current count of free and occupied spaces.
 
 ## Technologies Used
-
 - **Flask:** A micro web framework for Python.
 - **OpenCV:** A library for real-time computer vision.
 - **TensorFlow/Keras:** A deep learning framework used for training and running the CNN model.
